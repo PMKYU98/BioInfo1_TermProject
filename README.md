@@ -1,6 +1,9 @@
 # BioInfo1_TermProject
 by 2021-20471 Myeongkyu Park
 
+### Google Slides
+https://docs.google.com/presentation/d/1uQ6cILyiPRBHXAuSNQ4zxi_JypySEWgXFh63hZqM_zY/edit?usp=sharing
+
 ### Main Reference
 CHO et al. LIN28A Is a Suppressor of ER-Associated Translation in Embryonic Stem Cells. Cell, 2012
 
